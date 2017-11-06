@@ -1,0 +1,10 @@
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\bin\Debug\RecalculadorSegmentosDinamicos.exe.config
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\bin\Debug\RecalculadorSegmentosDinamicos.exe
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\bin\Debug\RecalculadorSegmentosDinamicos.pdb
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\bin\Debug\RecalculadorSegmentosDinamicos.xml
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\obj\Debug\RecalculadorSegmentosDinamicos.Form1.resources
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\obj\Debug\RecalculadorSegmentosDinamicos.Resources.resources
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\obj\Debug\RecalculadorSegmentosDinamicos.vbproj.GenerateResource.Cache
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\obj\Debug\RecalculadorSegmentosDinamicos.exe
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\obj\Debug\RecalculadorSegmentosDinamicos.xml
+c:\users\ddomingo\documents\visual studio 2013\Projects\RecalculadorSegmentosDinamicos\RecalculadorSegmentosDinamicos\obj\Debug\RecalculadorSegmentosDinamicos.pdb
